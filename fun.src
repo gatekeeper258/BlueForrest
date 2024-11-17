@@ -8,3 +8,7 @@ print "4"
 sampleFunction = function()
 	print "tested fine!"
 end function
+
+marzzFunction = function()
+    print("Marzz may not be smarter than Loki, but he has more common sense")
+end function
